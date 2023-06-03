@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pssgarcia
 - 👀 I’m an aspiring Web Developer
-- 🌱 I’m currently learning PHP at Tamwood, Vancouver  
+- 🌱 I’m currently studying at Tamwood, Vancouver  
 - 📫 Reach me out on Instagram, Linkedin. 
 https://www.instagram.com/pedrossgarcia/
 https://www.linkedin.com/in/pedro-soares-b996a5263/
