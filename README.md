@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pssgarcia
-- 👀 I’m an aspiring Web Developer
+- 👀 I’m a Web Developer
 - 🌱 I’m currently studying at Tamwood, Vancouver  
 - 📫 Reach me out on Instagram, Linkedin. 
 https://www.instagram.com/pedrossgarcia/
