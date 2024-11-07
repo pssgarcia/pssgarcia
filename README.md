@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pssgarcia
+- 👋 Hi, I’m Pedro Soares
 - 👀 I’m a Web Developer
 - 🌱 I’m currently studying Software Engineering at Puc Minas.
 - 📫 Reach me out on Instagram, Linkedin. 
